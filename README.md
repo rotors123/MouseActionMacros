@@ -1,0 +1,2 @@
+# MouseActionMacros
+for keyboard maestro.
